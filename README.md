@@ -8,6 +8,7 @@ To jest moja strona.
 
 ```markdown
 a tu jest wyróżniony blok z kodem ?? tzn. tekstem
+```
 
 # Nagłówek 1
 ## Nagłówek 2
@@ -22,4 +23,4 @@ a tu jest wyróżniony blok z kodem ?? tzn. tekstem
 **Bold** and _Italic_ and `Code` text
 
 [To jest jakiś link](http://atojestjakis.url) a to jest obrazek ![Image](https://avatars2.githubusercontent.com/u/39331554?s=96&v=4)
-```
+
